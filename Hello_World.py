@@ -1,2 +1,2 @@
 print "Hello World!"
-print "Good night Ori!"
+print "Good night Ori & a!"
